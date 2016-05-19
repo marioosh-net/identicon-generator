@@ -1,0 +1,23 @@
+{
+  "name": "identicon-generator",
+  "version": "1.0.0",
+  "description": "identicon generator - gravatar api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioosh-net/identicon-generator.git"
+  },
+  "keywords": [
+    "identicon"
+  ],
+  "author": "mario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marioosh-net/identicon-generator/issues"
+  },
+  "homepage": "https://github.com/marioosh-net/identicon-generator#readme"
+}
